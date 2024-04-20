@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/saimohith/static/css/main.6799b28b.css",
-    "main.js": "/saimohith/static/js/main.04cc2bee.js",
-    "static/js/592.07e742b1.chunk.js": "/saimohith/static/js/592.07e742b1.chunk.js",
-    "index.html": "/saimohith/index.html",
-    "main.6799b28b.css.map": "/saimohith/static/css/main.6799b28b.css.map",
-    "main.04cc2bee.js.map": "/saimohith/static/js/main.04cc2bee.js.map",
-    "592.07e742b1.chunk.js.map": "/saimohith/static/js/592.07e742b1.chunk.js.map"
+    "main.css": "/2211cs010547_mern_stack/static/css/main.db62923b.css",
+    "main.js": "/2211cs010547_mern_stack/static/js/main.6424f48c.js",
+    "static/js/592.a8ef3a6c.chunk.js": "/2211cs010547_mern_stack/static/js/592.a8ef3a6c.chunk.js",
+    "index.html": "/2211cs010547_mern_stack/index.html",
+    "main.db62923b.css.map": "/2211cs010547_mern_stack/static/css/main.db62923b.css.map",
+    "main.6424f48c.js.map": "/2211cs010547_mern_stack/static/js/main.6424f48c.js.map",
+    "592.a8ef3a6c.chunk.js.map": "/2211cs010547_mern_stack/static/js/592.a8ef3a6c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6799b28b.css",
-    "static/js/main.04cc2bee.js"
+    "static/css/main.db62923b.css",
+    "static/js/main.6424f48c.js"
   ]
 }
